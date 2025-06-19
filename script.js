@@ -17,3 +17,4 @@ particula.style.background = cor
 function mudarImagem(img){
     imagem.src = img
 }
+
